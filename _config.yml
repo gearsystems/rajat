@@ -1,0 +1,27 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Rajat Ujawane
+tagline:             'Personalized Diary'
+description:         
+url:                 http://gearsystems.github.io/rajat
+paginate:            5
+
+# About/contact
+author:
+  name:              Rajat Ujawane
+  url:               https://twitter.com/
+  email:             rajatujawane@yahoo.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:           https://github.com/gearsystems/rajat
