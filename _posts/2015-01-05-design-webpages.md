@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Stared designing Web Pages
+title: Started designing Web Pages
 comments: True
-redirect_from: "/2015/01/05/design-webpages/"
+redirect_from: "/2015/01/06/design-webpages/"
 permalink: design-webpages
 ---
  
